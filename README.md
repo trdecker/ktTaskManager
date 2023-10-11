@@ -8,7 +8,7 @@ The program currently allows the user to create new tasks, edit current tasks, d
 
 # Development Environment
 
-Developed using VSCode, written in Kotlin. I used the extensions "Kotlin" by fwcd and "Kotlin Language" by mathiasfrohlich to make this possible.
+Developed using VSCode, written in Kotlin. I used the extensions "Kotlin" by fwcd and "Kotlin Language" by mathiasfrohlich in VSCode to make this possible. In command line, kontlinc was used to create and run the .jar file.
 
 # Useful Websites
 
